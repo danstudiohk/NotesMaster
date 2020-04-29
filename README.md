@@ -29,7 +29,8 @@
 ### Analysis Framework
  - RFM framework
  - Cohort analysis
- - Forecast
+ - Conversion funnel
+ - Forecasting
  - Rule-based segmentation
 
 ### Design guideline
@@ -44,4 +45,8 @@
  - Retail
  - Social media
  - Customer Journey Design
+ - Customer Lifecycle
  - Touchpoint
+ 
+ ### Useful resources
+ [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
