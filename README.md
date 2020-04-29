@@ -33,6 +33,9 @@
  - Conversion funnel
  - Forecasting
  - Rule-based segmentation
+ - Recommendataion system
+ - Predictive model
+ - Next Action Scoring
 
 ### Design guideline
  - Working folder setting
