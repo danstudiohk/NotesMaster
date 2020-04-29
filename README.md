@@ -29,6 +29,8 @@
 ### Analysis Framework
  - RFM framework
  - Cohort analysis
+ - Forecast
+ - Rule-based segmentation
 
 ### Design guideline
  - Working folder setting
@@ -41,3 +43,5 @@
  - Loyalty Programme 
  - Retail
  - Social media
+ - Customer Journey Design
+ - Touchpoint
