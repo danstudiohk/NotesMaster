@@ -1,7 +1,7 @@
 # NotesMaster
 ## Program coding
  - Python
-   - [basics](https://www.google.com)
+   - [basics](https://github.com/danstudiohk/NotesMaster/wiki/Python-Basics)
    - numpy + pandas
  - SAS
  - SQL
