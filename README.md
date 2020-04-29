@@ -9,7 +9,6 @@
    - sklearn
    - pyspark
    - utilities
-   - pyspark
  - SAS
  - SQL
  - Excel VBA
