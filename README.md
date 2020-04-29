@@ -35,6 +35,7 @@
  - Recommendataion system
  - Predictive model
  - Next Action Scoring
+ - Social network analysis
 
 ### Design guideline
  - Working folder setting
