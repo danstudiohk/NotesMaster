@@ -17,7 +17,18 @@
 
 ## Data Science
  - Machine Learning
+   - Regression + Logistic Regression
+   - Decision Tree + Random Forest + Xgboost + LightGBM
+   - Clustering 
+   - Netural Network
+   - NLP
  - Big Data
+   - Hadoop
+   - Spark
+ 
+## Analysis Framework
+ - RFM framework
+ - Cohort analysis
 
 ## Design guideline
  - Working folder setting
@@ -29,3 +40,4 @@
  - Banking
  - Loyalty Programme 
  - Retail
+ - Social media
