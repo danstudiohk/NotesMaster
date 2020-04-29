@@ -39,6 +39,7 @@
 
 ### Design guideline
  - Working folder setting
+ - Naming Convention
  - Presentation flow
  - Chart gallery
 
