@@ -1,4 +1,4 @@
-# NotesMaster
+## NotesMaster
 ### Program coding
  - Python
    - [basics](https://github.com/danstudiohk/NotesMaster/wiki/Python-Basics)
@@ -15,7 +15,7 @@
  - Excel VBA
  - d3.js
 
-## Data Science
+### Data Science
  - Machine Learning
    - Regression + Logistic Regression
    - Decision Tree + Random Forest + Xgboost + LightGBM
@@ -26,16 +26,16 @@
    - Hadoop
    - Spark
  
-## Analysis Framework
+### Analysis Framework
  - RFM framework
  - Cohort analysis
 
-## Design guideline
+### Design guideline
  - Working folder setting
  - Presentation flow
  - Chart gallery
 
-## business concept
+### business concept
  - Fintech
  - Banking
  - Loyalty Programme 
