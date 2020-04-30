@@ -39,6 +39,7 @@
  - Predictive model
  - Next Action Scoring
  - Social network analysis
+ - Customer lifetime value (CLTV)
 
 ### Design guideline
  - Working folder setting
