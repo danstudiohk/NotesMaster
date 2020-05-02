@@ -2,7 +2,7 @@
 ### Program coding
  - Python
    - [basics](https://github.com/danstudiohk/NotesMaster/wiki/Python-Basics)
-   - numpy + pandas
+   - [numpy + pandas](https://github.com/danstudiohk/NotesMaster/wiki/Python-numpy---pandas)
    - SQL connection
    - matplotlib + seaborn
    - dash + plotly
