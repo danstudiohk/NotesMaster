@@ -19,6 +19,7 @@
 
 ### Data Science
  - Machine Learning
+   - Mathematical for ML
    - Principle Componenet analysis + Factor analysis
    - Regression + Logistic Regression
    - Decision Tree + Random Forest + Xgboost + LightGBM
