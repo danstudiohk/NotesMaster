@@ -36,6 +36,7 @@
  - Conversion funnel
  - Forecasting
  - Rule-based segmentation
+ - Market Basket Analysis
  - Recommendataion system
  - Predictive model
  - Next Action Scoring
