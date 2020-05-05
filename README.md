@@ -19,7 +19,7 @@
 
 ### Data Science
  - Machine Learning
-   - Mathematical for ML
+   - [Mathematical for ML](https://github.com/danstudiohk/NotesMaster/wiki/Mathematics-of-ML)
    - Principle Componenet analysis + Factor analysis
    - Regression + Logistic Regression
    - Decision Tree + Random Forest + Xgboost + LightGBM
