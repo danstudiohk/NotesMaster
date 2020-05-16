@@ -60,4 +60,5 @@
  - Touchpoint
  
  ### Useful resources
- [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
+  - [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
+  - Tools List
