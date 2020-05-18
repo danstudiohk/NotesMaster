@@ -3,7 +3,7 @@
  - Python
    - [basics](https://github.com/danstudiohk/NotesMaster/wiki/Python-Basics)
    - [numpy + pandas](https://github.com/danstudiohk/NotesMaster/wiki/Python-numpy-pandas)
-   - SQL connection
+   - [SQL connection](https://github.com/danstudiohk/NotesMaster/wiki/Python-SQL-connection)
    - matplotlib + seaborn
    - dash + plotly
    - sklearn
@@ -12,8 +12,8 @@
       - print + format
       - datetime
       - Object-oriented programme
- - SAS
- - SQL
+ - [SAS](https://github.com/danstudiohk/NotesMaster/wiki/SAS-(Pythonizing))
+ - [SQL](https://github.com/danstudiohk/NotesMaster/wiki/SQL-(Pythonizing))
  - Excel VBA
  - d3.js
 
@@ -60,4 +60,5 @@
  - Touchpoint
  
  ### Useful resources
- [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
+  - [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
+  - Tools List
