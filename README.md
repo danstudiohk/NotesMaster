@@ -31,7 +31,7 @@
    - Spark
  
 ### Analysis Framework
- - RFM segmentation
+ - [RFM segmentation](https://github.com/danstudiohk/NotesMaster/wiki/RFM-Segmentation)
  - Cohort analysis
  - Conversion funnel
  - Forecasting
