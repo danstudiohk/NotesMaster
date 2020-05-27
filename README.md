@@ -42,6 +42,7 @@
  - Next Action Scoring
  - Social network analysis
  - Customer lifetime value (CLTV)
+ - Digital Marketing Attribution Modelling
 
 ### Design guideline
  - Working folder setting
