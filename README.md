@@ -31,7 +31,7 @@
    - Spark
  
 ### Analysis Framework
- - RFM segmentation
+ - [RFM segmentation](https://github.com/danstudiohk/NotesMaster/wiki/RFM-Segmentation)
  - Cohort analysis
  - Conversion funnel
  - Forecasting
@@ -42,6 +42,7 @@
  - Next Action Scoring
  - Social network analysis
  - Customer lifetime value (CLTV)
+ - Digital Marketing Attribution Modelling
 
 ### Design guideline
  - Working folder setting
@@ -61,4 +62,4 @@
  
  ### Useful resources
   - [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
-  - Tools List
+  - [Tools List](https://github.com/danstudiohk/NotesMaster/wiki/Tools-List)
